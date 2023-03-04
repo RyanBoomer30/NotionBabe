@@ -1,0 +1,3 @@
+post https://api.notion.com/v1/databases/bcc9caee45c74eec80ba42e3be02234d/query 
+Authorization: Bearer secret_3CsFuCRTgC86dXPCIIz1aORRfXP1rBipfcn8ZWaUykH
+Notion-version: 2022-06-28
